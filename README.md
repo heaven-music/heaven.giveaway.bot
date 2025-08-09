@@ -1,6 +1,6 @@
 # Discord Poll Bot
 
-A simple Discord bot that creates polls using slash commands and emoji reactions.
+An open source simple Discord bot that creates polls using slash commands and emoji reactions.
 
 ## Features
 
