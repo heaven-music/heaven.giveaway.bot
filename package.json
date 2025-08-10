@@ -1,24 +1,19 @@
 {
-  "name": "PollBot",
+  "name": "GiveawayBot",
   "version": "1.0.0",
-  "description": "A Discord bot that creates embed-based polls with slash commands and emoji voting.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "discord",
-    "bot",
-    "poll",
-    "emoji",
-    "slash-command",
-    "voting"
-  ],
-  "author": "Unknownzop",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "@types/node": "^22.13.11",
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "ms": "^2.1.3"
   }
 }
